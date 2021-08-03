@@ -6,4 +6,8 @@ public class Calculator {
 	{
 		return a + b;
 	}
+	public void same()
+	{
+		System.out.prinltn("HI SP...");
+	}
 }
