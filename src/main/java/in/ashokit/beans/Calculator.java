@@ -8,6 +8,6 @@ public class Calculator {
 	}
 	public void same()
 	{
-		System.out.prinltn("HI SP...");
+		System.out.println("HI SP...");
 	}
 }
